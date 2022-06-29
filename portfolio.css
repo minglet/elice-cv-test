@@ -1,0 +1,30 @@
+* {
+  font-family: "Titillium Web", sans-serif;
+  margin: 10px;
+}
+
+header div {
+  width: 500px;
+  height: 40px;
+  background-color: bisque;
+}
+
+nav a {
+  margin-left: 10px;
+  text-decoration-line: none;
+  color: black;
+}
+
+nav #home {
+  float: left;
+}
+
+nav #cv {
+  float: left;
+}
+
+footer {
+  width: 500px;
+  height: 32px;
+  background-color: azure;
+}
